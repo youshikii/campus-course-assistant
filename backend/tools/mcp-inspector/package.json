@@ -1,0 +1,6 @@
+{
+  "name": "campus-mcp-inspector",
+  "private": true,
+  "scripts": { "inspector": "mcp-inspector" },
+  "devDependencies": { "@modelcontextprotocol/inspector": "2.12.0" }
+}
